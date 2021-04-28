@@ -1,19 +1,16 @@
-# First Chapter
+# 我们的技术架构
 
-123123112312312312
+## 1.SpringCloud&SpringBoot框架
 
-```java
-    @Override
-    public List<Picbook> pageByPicbookIds(List<Long> picbookIds, Long tagId, IPage<Picbook> page) {
-        Long size = page.getSize();
-        Long current = page.getCurrent();
-        if (CommonConstants.DEFAULT_ZERO_ID >= current) {
-            current = CommonConstant.ONE.longValue();
-        }
-        Long sqlCurrent = (current - CommonConstant.ONE) * size;
-        return this.baseMapper.pageByPicbookIds(picbookIds, tagId, sqlCurrent, size);
-    }
-```
+## 2.服务治理 配置中心——nacos
 
-阿斯达
+## 3.异步通信rocketMQ&同步通信Feign
+
+## 4.熔断器hystrix
+
+## 5.数据引擎：mysql+redis+ES
+
+## 6.数据同步：databus
+
+
 
