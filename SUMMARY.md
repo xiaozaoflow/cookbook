@@ -35,15 +35,8 @@
   * [数据交互设计](ru-he-she-ji/shu-ju-jiao-hu-she-ji.md)
   * [并发/可用/稳定设计](ru-he-she-ji/bing-53d1-ke-7528-wen-ding-she-ji.md)
   * [加入观察列表](ru-he-she-ji/jia-ru-guan-cha-lie-biao.md)
-* [hh](hh.md)
-* [数据库表设计](#)sss
 
-* [kk](kk.md)
-* [常见的错误指南](chang-jian-de-cuo-wu-zhi-nan.md)sss
-  * * [jvm](chang-jian-de-cuo-wu-zhi-nan/jvm.md)
-    * [json](chang-jian-de-cuo-wu-zhi-nan/52-json.md)
-    * [http](chang-jian-de-cuo-wu-zhi-nan/53-http.md)
-    * [SpringBoot](chang-jian-de-cuo-wu-zhi-nan/54-springboot.md)
+
 
 
 
