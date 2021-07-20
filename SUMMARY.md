@@ -8,7 +8,7 @@
   * [熔断器hystrix](chapter1/rong-duan-qi-hystrix.md)
   * [数据引擎：mysql+redis+ES](chapter1/shu-ju-yin-qing-ff1a-mysql-+-redis-+-es.md)
   * [数据同步：databus](chapter1/shu-ju-tong-bu-ff1a-databus.md)
-* [我们的项目](zhang-jie-yi.md)
+* [业务梳理](zhang-jie-yi.md)
   * [春节抽奖活动](zhang-jie-yi/21-chun-jie-chou-jiang-huo-dong.md)
 * [我们的业务架构](wo-men-de-ye-wu-jia-gou.md)
   * [裂变](wo-men-de-ye-wu-jia-gou/lie-bian.md)
@@ -35,8 +35,4 @@
   * [数据交互设计](ru-he-she-ji/shu-ju-jiao-hu-she-ji.md)
   * [并发/可用/稳定设计](ru-he-she-ji/bing-53d1-ke-7528-wen-ding-she-ji.md)
   * [加入观察列表](ru-he-she-ji/jia-ru-guan-cha-lie-biao.md)
-
-
-
-
 
