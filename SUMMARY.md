@@ -2,20 +2,17 @@
 
 * [导语](README.md)
 * [ 我们的技术架构](chapter1.md)
-  * [SpringCloud&SpringBoot框架](chapter1/springcloudandspringbootkuang-jia.md)
-  * [服务治理 配置中心——nacos](chapter1/fu-wu-zhi-li-pei-zhi-zhong-xin-2014-2014-nacos.md)
-  * [异步通信rocketMQ&同步通信Feign](chapter1/yi-bu-tong-xin-rocketmq-tong-bu-tong-xin-feign.md)
-  * [熔断器hystrix](chapter1/rong-duan-qi-hystrix.md)
-  * [数据引擎：mysql+redis+ES](chapter1/shu-ju-yin-qing-ff1a-mysql-+-redis-+-es.md)
-  * [数据同步：databus](chapter1/shu-ju-tong-bu-ff1a-databus.md)
 * [我们的业务架构](wo-men-de-ye-wu-jia-gou.md)
   * [会员](wo-men-de-ye-wu-jia-gou/hui-yuan.md)
   * [学习](wo-men-de-ye-wu-jia-gou/xue-xi.md)
-  * [绘本阅读](wo-men-de-ye-wu-jia-gou/hui-ben-yue-du.md)
+    * [小程序端 绘本阅读](wo-men-de-ye-wu-jia-gou/xue-xi/xiao-cheng-xu-duan-hui-ben-yue-du.md)
   * [裂变](zhang-jie-yi/lie-biao.md)
     * [小程序裂变](zhang-jie-yi/lie-biao/xiao-cheng-xu-lie-bian.md)
   * [微信相关](wo-men-de-ye-wu-jia-gou/wei-xin-xiang-guan.md)
     * [小程序登陆流程+oauth2](wo-men-de-ye-wu-jia-gou/wei-xin-xiang-guan/xiao-cheng-xu-deng-lu-liu-7a0b+-oauth2.md)
+  * [Mango后台](wo-men-de-ye-wu-jia-gou/mangohou-tai.md)
+    * [消息系统](wo-men-de-ye-wu-jia-gou/mangohou-tai/xiao-xi-xi-tong.md)
+    * [数据系统](wo-men-de-ye-wu-jia-gou/mangohou-tai/shu-ju-xi-tong.md)
 * [我们的技术沉淀](wo-men-de-ji-zhu-chen-dian.md)
   * [高并发](wo-men-de-ji-zhu-chen-dian/41-gao-bing-fa.md)
     * [分布式锁@redisLock](wo-men-de-ji-zhu-chen-dian/41-gao-bing-fa/fen-bu-shi-9501-redislock.md)
@@ -24,11 +21,11 @@
   * [高可用](wo-men-de-ji-zhu-chen-dian/gao-ke-yong.md)
   * [分布式系统指南](wo-men-de-ji-zhu-chen-dian/fen-bu-shi-xi-tong-zhi-nan.md)
     * 如何观察系统运行的状态
+  * 设计模式
+  * [Spring相关源码](wo-men-de-ji-zhu-chen-dian/springxiang-guan-yuan-ma.md)
+    * SpringCloud OpenFeign
 * [常见的错误指南](chang-jian-de-cuo-wu-zhi-nan.md)
-  * [jvm](chang-jian-de-cuo-wu-zhi-nan/jvm.md)
-  * [json](chang-jian-de-cuo-wu-zhi-nan/52-json.md)
-  * [http](chang-jian-de-cuo-wu-zhi-nan/53-http.md)
-  * [SpringBoot](chang-jian-de-cuo-wu-zhi-nan/54-springboot.md)
+  * caseStudy-以前犯过的错
 * [我们的开发规范](kai-fa-gui-fan.md)
   * 设计规范
 * [如何设计](ru-he-she-ji.md)

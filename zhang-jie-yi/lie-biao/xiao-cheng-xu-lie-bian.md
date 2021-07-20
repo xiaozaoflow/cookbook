@@ -54,7 +54,7 @@ processOn链接：[https://www.processon.com/view/link/5ef064926376891e81de9355]
 
 扫码以后发生的事情主要参考ActivityController.enroll。报名以后发布了报名事件，消息事件，邀请事件，分别对应用户扫了海报以后进入到绘本阅读页，给他帮忙解锁的人增加一个好友计数，为该用户生成海报和发送消息，记录一个报名事件。值得注意的是，消息事件主要是指公众号消息。发送消息的openid需要区user-openid表中获取。而帮助某个用户解锁的好友数量的计数是从invite-relation中来的。
 
-### 4: 数据库er图
+### 4: 数据库ER图
 
 ![](/assets/截屏2021-07-20 下午4.48.56.png)
 
