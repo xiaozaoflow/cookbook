@@ -4,6 +4,7 @@
 * [ 我们的技术架构](chapter1.md)
 * [我们的业务架构](wo-men-de-ye-wu-jia-gou.md)
   * [会员](wo-men-de-ye-wu-jia-gou/hui-yuan.md)
+    * [小程序促销礼物包福利页](wo-men-de-ye-wu-jia-gou/hui-yuan/cu-xiao-li-wu-bao-fu-li-ye.md)
   * [学习](wo-men-de-ye-wu-jia-gou/xue-xi.md)
     * [小程序端 绘本阅读](wo-men-de-ye-wu-jia-gou/xue-xi/xiao-cheng-xu-duan-hui-ben-yue-du.md)
   * [裂变](zhang-jie-yi/lie-biao.md)
